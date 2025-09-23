@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "player_image": "https://i.ibb.co.com/5W35ZxM5/1696748634550-Shakib-Al-Hasan.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_role": "All-Rounder",
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Slow Left-arm Orthodox",
+    "rating": 9.1,
+    "price": 120000
+  },
+  {
+    "id": 2,
+    "player_image": "https://i.ibb.co.com/xS25yMTm/mr2-1741254563.png",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "player_role": "Wicketkeeper-Batsman",
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "N/A",
+    "rating": 8.7,
+    "price": 95000
+  },
+  {
+    "id": 3,
+    "player_image": "https://i.ibb.co.com/QsNjxSQ/cr-20250203tn67a0344fb2a7b.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "player_role": "All-Rounder",
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Fast",
+    "rating": 9.3,
+    "price": 150000
+  },
+  {
+    "id": 4,
+    "player_image": "https://i.ibb.co.com/C38YsyQH/Whats-App-Image-2024-01-25-at-07-52-01.webp",
+    "player_name": "Chris Gayle",
+    "player_country": "West Indies",
+    "player_role": "Batsman",
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Offbreak",
+    "rating": 8.8,
+    "price": 110000
+  },
+  {
+    "id": 5,
+    "player_image": "https://i.ibb.co.com/1G9QcGr5/wwwbssnewsnet-image-233638-1735228929-20241227091857.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Left-arm Fast Medium",
+    "rating": 8.6,
+    "price": 80000
+  },
+  {
+    "id": 6,
+    "player_image": "https://i.ibb.co.com/356NDMwB/skysports-dawid-malan-yorkshire-5405500.jpg",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "player_role": "Batsman",
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Legbreak",
+    "rating": 8.4,
+    "price": 70000
+  },
+  {
+    "id": 7,
+    "player_image": "https://i.ibb.co.com/DscFfLc/download.jpg",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "player_role": "Bowler",
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Legbreak",
+    "rating": 9.0,
+    "price": 135000
+  },
+  {
+    "id": 8,
+    "player_image": "https://i.ibb.co.com/PsZHpZym/Dailys-5-07-11-2021.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "N/A",
+    "rating": 8.3,
+    "price": 60000
+  },
+  {
+    "id": 9,
+    "player_image": "https://i.ibb.co.com/ynmXBVmQ/l16820221025132016.webp",
+    "player_name": "Kieron Pollard",
+    "player_country": "West Indies",
+    "player_role": "All-Rounder",
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Medium",
+    "rating": 8.9,
+    "price": 125000
+  },
+  {
+    "id": 10,
+    "player_image": "https://i.ibb.co.com/DfWyNSPR/image-25983-1635861932.jpg",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "player_role": "All-Rounder",
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Offbreak",
+    "rating": 8.2,
+    "price": 75000
+  },
+  {
+    "id": 11,
+    "player_image": "https://i.ibb.co.com/5XwCmGfR/ind-sa-1.jpg",
+    "player_name": "AB de Villiers",
+    "player_country": "South Africa",
+    "player_role": "Batsman",
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Medium",
+    "rating": 9.4,
+    "price": 160000
+  },
+  {
+    "id": 12,
+    "player_image": "https://i.ibb.co.com/h1rCVWbq/Taskin-Ahmed.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Fast",
+    "rating": 8.1,
+    "price": 55000
+  }
+]
